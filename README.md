@@ -1,4 +1,4 @@
-# Data Career Insight Project
+# Data Career Insights Project
 
 A data-driven exploration of skills, trends, and salaries in the tech job market — designed to help job seekers understand the most valuable skills to learn in today’s job landscape.
 
