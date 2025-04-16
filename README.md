@@ -88,6 +88,6 @@ Suggestions and contributions are welcome! Feel free to fork the repo and raise 
 
 I'm always open to feedback, collaboration, and networking. Let’s connect!
 
-- **💼 LinkedIn:** [linkedin.com/in/mohan-sai14](https://linkedin.com/in/mohansaipandeti)  
+- **💼 LinkedIn:** [linkedin.com/in/mohansaipandeti](https://linkedin.com/in/mohansaipandeti)  
 - **📧 Email:** pandetimohansai@gmail.com
 
